@@ -84,14 +84,14 @@ if opcion=='2':
 	            else:
 	                print(f'{Fore.LIGHTGREEN_EX}Valid token >{Fore.RESET} ' + token)
 	        except Exception:
-	            print(f"{Fore.CYAN}Error, please contact with DiegoBot#1739 {Fore.RESET}")
+	            print(f"{Fore.CYAN}Error, please contact with BlueCast#1429 {Fore.RESET}")
 pass
 if opcion=='3':
 	os.system("cls")
 	print(Fore.WHITE +Fore.BLUE +"                         ["+Fore.WHITE +Fore.BLUE +"+"+Fore.WHITE +Fore.BLUE +"]"+ Fore.WHITE +Fore.BLUE +"-------------------------------------------------------"+ Fore.WHITE +Fore.BLUE +"["+ Fore.WHITE +Fore.BLUE +"+"+ Fore.WHITE +Fore.BLUE +"]")
-	print(Fore.WHITE +Fore.BLUE +"                                         DiegoBot-Gen"+Fore.WHITE+" Made by "+Fore.BLUE+"DiegoBot")
-	print(Fore.WHITE +Fore.BLUE +"                                         [Discord] "+Fore.BLUE+"DiegoBot")
-	print(Fore.WHITE +Fore.BLUE +"                                         [Server] "+Fore.BLUE+"https://discord.gg/2YzMzrnFxm")
+	print(Fore.WHITE +Fore.BLUE +"                                         BlueCast-token-Gen"+Fore.WHITE+" Made by "+Fore.BLUE+"BlueCast")
+	print(Fore.WHITE +Fore.BLUE +"                                         [Discord] "+Fore.BLUE+"BlueCast")
+	print(Fore.WHITE +Fore.BLUE +"                                         [Server] "+Fore.BLUE+"https://discord.gg/s5e6WNpUCw")
 	print(Fore.WHITE +Fore.BLUE +"                         ["+Fore.WHITE +Fore.BLUE +"+"+Fore.WHITE +Fore.BLUE +"]"+ Fore.WHITE +Fore.BLUE +"-------------------------------------------------------"+ Fore.WHITE +Fore.BLUE +"["+ Fore.WHITE +Fore.BLUE +"+"+ Fore.WHITE +Fore.BLUE +"]")
 	input(Fore.BLUE +Fore.BLUE +"\nEnter to exit")
 	os.system("cls")
