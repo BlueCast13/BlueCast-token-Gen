@@ -1,6 +1,6 @@
 [[package]]
 name = "colorama"
-version = "0.4.4"
+version = "0.0.2"
 description = "Cross-platform colored terminal text."
 category = "main"
 optional = false
